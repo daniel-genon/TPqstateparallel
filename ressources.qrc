@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>general/nouveau.png</file>
+        <file>general/quitter.png</file>
+        <file>general/apropos.png</file>
+        <file>motif/joueur.png</file>
+        <file>motif/fond.png</file>
+        <file>motif/jvb.png</file>
+        <file>motif/jvj.png</file>
+        <file>motif/jvm.png</file>
+        <file>motif/jvr.png</file>
+        <file>motif/ajb.png</file>
+        <file>motif/ajr.png</file>
+    </qresource>
+</RCC>

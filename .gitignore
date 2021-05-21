@@ -1,0 +1,22 @@
+# C++ objects and libs
+#*.slo
+#*.lo
+#*.o
+#*.a
+#*.so
+#*.so.*
+
+# Qt-es
+*.pro.user
+*.pro.user.*
+build-*/*
+
+# QtCreator
+*.autosave
+
+# QtCreator CMake
+CMakeLists.txt.user*
+
+#autres
+
+
