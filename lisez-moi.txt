@@ -1,0 +1,5 @@
+
+Projet d'études comprenant les composants pour utiliser les états pârallèle du framework QtStateMachine de QT. Le texte d'apprentissage est disponible ici : https://qt.developpez.com/
+Ces composants mettent en œuvre trois exemples de programmes simple. Pour les utiliser vous devez maîtriser le langage C++ et un minimum des bibliothèques QT. La version QT utilisée est 5.7 et la version de QTCreator est 4.2 . 
+
+Daniel Génon
